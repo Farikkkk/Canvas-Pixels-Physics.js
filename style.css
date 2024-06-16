@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#canvas1 {
+  /* background: blue; */
+  position: absolute;
+}
+
+.controls {
+  position: absolute;
+  z-index: 100;
+}
+
+img {
+  display: none;
+}
+
+#warpButton {
+  padding: 15px 40px;
+  font-size: 30px;
+  margin: 30px;
+  font-family: "Bangers", cursive;
+  color: white;
+  background-color: black;
+}
+
+#warpButton:hover {
+  color: black;
+  background-color: white;
+}
+
+#warpButton2 {
+  padding: 15px 40px;
+  font-size: 30px;
+  margin: 30px;
+  font-family: "Bangers", cursive;
+  color: white;
+  background-color: black;
+}
+
+#warpButton2:hover {
+  color: black;
+  background-color: white;
+}
